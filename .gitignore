@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .DS_Store
-data/data2013.R
-data/data2014.R
-data/data2015.R
+data/data_2013.R
+data/data_2014.R
+data/data_2015.R
 data/mlbam2015.RData
